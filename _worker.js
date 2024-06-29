@@ -481,7 +481,7 @@ export default {
 				
 					const vmess = `{
 "v": "2",
-"ps": "${addressid}>$",
+"ps": "${addressid}",
 "add": "${address}",
 "port": "${port}",
 "id": "${uuid}",
@@ -545,7 +545,7 @@ export default {
 			
 				const vmess = `{
 "v": "2",
-"ps": "${addressid}>$",
+"ps": "${addressid}",
 "add": "${address}",
 "port": "${port}",
 "id": "${uuid}",
